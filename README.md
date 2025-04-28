@@ -2,6 +2,8 @@
 
 Desarrollar un sistema de visión por computadora que, al detectar entre 0 y 5 dedos levantados, envíe dicho número a Arduino, donde un circuito electrónico simulará una suma acumulativa o display de conteo.
 
+LINK VIDEO: 
+
 Descripción del proyecto
 
 Se utilizará Python con MediaPipe para el seguimiento de la mano y conteo de dedos.
