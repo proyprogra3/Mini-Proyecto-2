@@ -2,7 +2,7 @@
 
 Desarrollar un sistema de visión por computadora que, al detectar entre 0 y 5 dedos levantados, envíe dicho número a Arduino, donde un circuito electrónico simulará una suma acumulativa o display de conteo.
 
-LINK VIDEO: 
+LINK VIDEO: https://drive.google.com/file/d/1bLqorv6xtMLSosCP_lxt-f1FkTkLg7WU/view?usp=sharing
 
 Descripción del proyecto
 
